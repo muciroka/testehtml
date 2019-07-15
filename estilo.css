@@ -1,0 +1,80 @@
+/* TAGS */
+body{ 
+    
+    font-family: Arial;
+    height: 100px;
+    background-color: antiquewhite;    
+    background-size: 100%
+    
+} 
+
+h2{
+    color: darkblue;
+    
+}
+
+header{
+    
+    height:auto;
+    width: 100%;
+    margin:auto;
+        
+}
+
+footer{ 
+    
+    clear:both;
+    text-align: center;
+    font-family: Helvetica, Arial;
+    font-size: 10px;
+    
+}
+
+
+/* IDs */
+#div_esquerda{ 
+    
+    min-height:200px;
+    width: 50%;
+    float: left;
+    
+
+} 
+
+
+#div_direita{
+    
+    min-height: 200px;
+    width: 50%;
+    float: right;
+    
+} 
+
+#div_direita a{
+    
+    color: black;
+
+}
+
+
+
+/* CLASS */
+.container{ 
+    
+    text-align: justify;
+    width: 100%;
+    margin:auto;
+    
+
+} 
+
+.container a{
+    
+    color: black;
+    text-decoration: none;
+}
+
+video{ 
+    float: right;
+}
+    
